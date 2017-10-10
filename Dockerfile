@@ -1,1 +1,1 @@
-  FROM ubuntu16.04
+  FROM ubuntu:16.04
